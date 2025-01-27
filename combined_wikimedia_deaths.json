@@ -423,6 +423,102 @@
         "data": {
             "deaths": [
                 {
+                    "text": "Ágnes Keleti, Hungarian Olympic gymnast (b. 1921)",
+                    "pages": [
+                        {
+                            "type": "standard",
+                            "title": "Ágnes_Keleti",
+                            "displaytitle": "<span class=\"mw-page-title-main\">Ágnes Keleti</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q233572",
+                            "titles": {
+                                "canonical": "Ágnes_Keleti",
+                                "normalized": "Ágnes Keleti",
+                                "display": "<span class=\"mw-page-title-main\">Ágnes Keleti</span>"
+                            },
+                            "pageid": 4743532,
+                            "thumbnail": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg/320px-Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg",
+                                "width": 320,
+                                "height": 406
+                            },
+                            "originalimage": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg",
+                                "width": 1674,
+                                "height": 2126
+                            },
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271569209",
+                            "tid": "b175f70f-da78-11ef-939a-dfd89969faf0",
+                            "timestamp": "2025-01-24T17:28:58Z",
+                            "description": "Hungarian-Israeli artistic gymnast (1921–2025)",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/%C3%81gnes_Keleti",
+                                    "revisions": "https://en.wikipedia.org/wiki/%C3%81gnes_Keleti?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/%C3%81gnes_Keleti?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:%C3%81gnes_Keleti"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/%C3%81gnes_Keleti",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/%C3%81gnes_Keleti",
+                                    "edit": "https://en.m.wikipedia.org/wiki/%C3%81gnes_Keleti?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:%C3%81gnes_Keleti"
+                                }
+                            },
+                            "extract": "Ágnes Keleti was a Hungarian and Israeli artistic gymnast and coach, who won multiple Olympic medals. She was the oldest living Olympic champion and medallist, reaching her 100th birthday on 9 January 2021. While representing Hungary at the Summer Olympics, she won 10 Olympic medals including five gold medals, three silver medals, and two bronze medals, and is considered to be one of the most successful Jewish Olympic athletes of all time. Keleti earned more Olympic medals than any other individual with Israeli citizenship, and more Olympic medals than any other Jew, except Mark Spitz. She was the most successful athlete at the 1956 Summer Olympics.",
+                            "extract_html": "<p><b>Ágnes Keleti</b> was a Hungarian and Israeli artistic gymnast and coach, who won multiple Olympic medals. She was the oldest living Olympic champion and medallist, reaching her 100th birthday on 9 January 2021. While representing Hungary at the Summer Olympics, she won 10 Olympic medals including five gold medals, three silver medals, and two bronze medals, and is considered to be one of the most successful Jewish Olympic athletes of all time. Keleti earned more Olympic medals than any other individual with Israeli citizenship, and more Olympic medals than any other Jew, except Mark Spitz. She was the most successful athlete at the 1956 Summer Olympics.</p>",
+                            "normalizedtitle": "Ágnes Keleti"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_2",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 2</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2151",
+                            "titles": {
+                                "canonical": "January_2",
+                                "normalized": "January 2",
+                                "display": "<span class=\"mw-page-title-main\">January 2</span>"
+                            },
+                            "pageid": 15788,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271302733",
+                            "tid": "b6a64f2b-d985-11ef-8dfa-08899ee26ca2",
+                            "timestamp": "2025-01-23T12:29:39Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_2",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_2?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_2?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_2"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_2",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_2",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_2?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_2"
+                                }
+                            },
+                            "extract": "January 2 is the second day of the year in the Gregorian calendar; 363 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 2</b> is the second day of the year in the Gregorian calendar; 363 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 2"
+                        }
+                    ],
+                    "year": 2025
+                },
+                {
                     "text": "Jytte Abildstrøm, actrice et chanteuse danoise (° 25 mars 1934).",
                     "pages": [
                         {
@@ -520,62 +616,6 @@
                             "extract": "Bernie Constantin, né le 18 juin 1947 à Blignou, l'un des treize villages de la commune d'Ayent, et mort le 2 janvier 2025 à Anzère, est un musicien et animateur de radio suisse.",
                             "extract_html": "<p><b>Bernie Constantin</b>, né le <time class=\"nowrap bday\" datetime=\"1947-06-18\">18 juin 1947</time> à Blignou, l'un des treize villages de la commune d'Ayent, et mort le <time class=\"nowrap dday\" datetime=\"2025-01-02\">2 janvier 2025</time> à Anzère, est un musicien et animateur de radio suisse.</p>",
                             "normalizedtitle": "Bernie Constantin"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Ágnes Keleti, gymnaste hongroise (° 9 janvier 1921).",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Ágnes_Keleti",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Ágnes Keleti</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q233572",
-                            "titles": {
-                                "canonical": "Ágnes_Keleti",
-                                "normalized": "Ágnes Keleti",
-                                "display": "<span class=\"mw-page-title-main\">Ágnes Keleti</span>"
-                            },
-                            "pageid": 2150938,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg/320px-Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg",
-                                "width": 320,
-                                "height": 406
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg",
-                                "width": 1674,
-                                "height": 2126
-                            },
-                            "lang": "fr",
-                            "dir": "ltr",
-                            "revision": "222135862",
-                            "tid": "c4d5fe6e-d3e8-11ef-8768-64e1ff766f8a",
-                            "timestamp": "2025-01-16T09:03:36Z",
-                            "description": "gymnaste hongroise",
-                            "description_source": "central",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://fr.wikipedia.org/wiki/%C3%81gnes_Keleti",
-                                    "revisions": "https://fr.wikipedia.org/wiki/%C3%81gnes_Keleti?action=history",
-                                    "edit": "https://fr.wikipedia.org/wiki/%C3%81gnes_Keleti?action=edit",
-                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:%C3%81gnes_Keleti"
-                                },
-                                "mobile": {
-                                    "page": "https://fr.m.wikipedia.org/wiki/%C3%81gnes_Keleti",
-                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/%C3%81gnes_Keleti",
-                                    "edit": "https://fr.m.wikipedia.org/wiki/%C3%81gnes_Keleti?action=edit",
-                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:%C3%81gnes_Keleti"
-                                }
-                            },
-                            "extract": "Ágnes Keleti, née Ágnes Edit Klein le 9 janvier 1921 à Budapest et morte le 2 janvier 2025 dans la même ville, est une gymnaste hongroise, survivante de la Shoah.",
-                            "extract_html": "<p><b>Ágnes Keleti</b>, née Ágnes Edit Klein le <time class=\"nowrap date-lien bday\" datetime=\"1921-01-09\">9 janvier 1921</time> à Budapest et morte le <time class=\"nowrap date-lien dday\" datetime=\"2025-01-02\">2 janvier 2025</time> dans la même ville, est une gymnaste hongroise, survivante de la Shoah.</p>",
-                            "normalizedtitle": "Ágnes Keleti"
                         }
                     ],
                     "year": 2025
@@ -700,7 +740,7 @@
         "data": {
             "deaths": [
                 {
-                    "text": "Jeff Baena, scénariste et réalisateur américain (° 29 juin 1977).",
+                    "text": "Jeff Baena, American filmmaker (b. 1977)",
                     "pages": [
                         {
                             "type": "standard",
@@ -716,7 +756,7 @@
                                 "normalized": "Jeff Baena",
                                 "display": "<span class=\"mw-page-title-main\">Jeff Baena</span>"
                             },
-                            "pageid": 13543952,
+                            "pageid": 51495916,
                             "thumbnail": {
                                 "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jeff_Baena.jpg/320px-Jeff_Baena.jpg",
                                 "width": 320,
@@ -727,30 +767,166 @@
                                 "width": 682,
                                 "height": 809
                             },
-                            "lang": "fr",
+                            "lang": "en",
                             "dir": "ltr",
-                            "revision": "222160318",
-                            "tid": "80f7f6db-d4ab-11ef-bd22-27219c378455",
-                            "timestamp": "2025-01-17T08:17:34Z",
-                            "description": "scénariste et réalisateur américain",
-                            "description_source": "central",
+                            "revision": "1272099128",
+                            "tid": "463d3d7f-dc65-11ef-b297-86323b3eaf96",
+                            "timestamp": "2025-01-27T04:15:00Z",
+                            "description": "American screenwriter and film director (1977–2025)",
+                            "description_source": "local",
                             "content_urls": {
                                 "desktop": {
-                                    "page": "https://fr.wikipedia.org/wiki/Jeff_Baena",
-                                    "revisions": "https://fr.wikipedia.org/wiki/Jeff_Baena?action=history",
-                                    "edit": "https://fr.wikipedia.org/wiki/Jeff_Baena?action=edit",
-                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:Jeff_Baena"
+                                    "page": "https://en.wikipedia.org/wiki/Jeff_Baena",
+                                    "revisions": "https://en.wikipedia.org/wiki/Jeff_Baena?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/Jeff_Baena?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:Jeff_Baena"
                                 },
                                 "mobile": {
-                                    "page": "https://fr.m.wikipedia.org/wiki/Jeff_Baena",
-                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/Jeff_Baena",
-                                    "edit": "https://fr.m.wikipedia.org/wiki/Jeff_Baena?action=edit",
-                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:Jeff_Baena"
+                                    "page": "https://en.m.wikipedia.org/wiki/Jeff_Baena",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jeff_Baena",
+                                    "edit": "https://en.m.wikipedia.org/wiki/Jeff_Baena?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Jeff_Baena"
                                 }
                             },
-                            "extract": "Jeff Baena, né le 29 juin 1977 à Miami (Floride) et mort le 3 janvier 2025 à Los Angeles (Californie), est un scénariste et réalisateur américain.",
-                            "extract_html": "<p><b>Jeff Baena</b>, né le <time class=\"nowrap date-lien bday\" datetime=\"1977-06-29\">29 juin 1977</time> à Miami (Floride) et mort le 3 janvier 2025 à Los Angeles (Californie), est un scénariste et réalisateur américain.</p>",
+                            "extract": "Jeffrey Lance Baena was an American screenwriter and film director. Baena began his career as a screenwriter, co-writing the 2004 comedy film I Heart Huckabees and, around the same time, seeing his script for Life After Beth enter production before being shelved. Baena, as an independent filmmaker, then expanded to directing and filmed Life After Beth as his directorial debut, starring Aubrey Plaza and released in 2014. Working with producer Liz Destro, and reuniting with Plaza as well as an expanding group of frequent collaborators, Baena was then writer-director for Joshy (2016) and The Little Hours (2017), which both became critically acclaimed and found a cult audience.",
+                            "extract_html": "<p><b>Jeffrey Lance Baena</b> was an American screenwriter and film director. Baena began his career as a screenwriter, co-writing the 2004 comedy film <i>I Heart Huckabees</i> and, around the same time, seeing his script for <i>Life After Beth</i> enter production before being shelved. Baena, as an independent filmmaker, then expanded to directing and filmed <i>Life After Beth</i> as his directorial debut, starring Aubrey Plaza and released in 2014. Working with producer Liz Destro, and reuniting with Plaza as well as an expanding group of frequent collaborators, Baena was then writer-director for <i>Joshy</i> (2016) and <i>The Little Hours</i> (2017), which both became critically acclaimed and found a cult audience.</p>",
                             "normalizedtitle": "Jeff Baena"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_3",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 3</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2156",
+                            "titles": {
+                                "canonical": "January_3",
+                                "normalized": "January 3",
+                                "display": "<span class=\"mw-page-title-main\">January 3</span>"
+                            },
+                            "pageid": 15789,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271516601",
+                            "tid": "1dd9174b-da49-11ef-ac67-29624cdf5b9a",
+                            "timestamp": "2025-01-24T11:48:24Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_3",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_3?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_3?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_3"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_3",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_3",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_3?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_3"
+                                }
+                            },
+                            "extract": "January 3 is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 3</b> is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 3"
+                        }
+                    ],
+                    "year": 2025
+                },
+                {
+                    "text": "Brenton Wood, American R&B singer-songwriter and keyboard player (b. 1941)",
+                    "pages": [
+                        {
+                            "type": "standard",
+                            "title": "Brenton_Wood",
+                            "displaytitle": "<span class=\"mw-page-title-main\">Brenton Wood</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q1138676",
+                            "titles": {
+                                "canonical": "Brenton_Wood",
+                                "normalized": "Brenton Wood",
+                                "display": "<span class=\"mw-page-title-main\">Brenton Wood</span>"
+                            },
+                            "pageid": 5201098,
+                            "thumbnail": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Brenton_Wood.png/320px-Brenton_Wood.png",
+                                "width": 320,
+                                "height": 320
+                            },
+                            "originalimage": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brenton_Wood.png",
+                                "width": 506,
+                                "height": 506
+                            },
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1269083379",
+                            "tid": "b7e1ac32-d13d-11ef-b032-cad2cfbb7a3d",
+                            "timestamp": "2025-01-12T23:34:08Z",
+                            "description": "American singer and songwriter (1941–2025)",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/Brenton_Wood",
+                                    "revisions": "https://en.wikipedia.org/wiki/Brenton_Wood?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/Brenton_Wood?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:Brenton_Wood"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/Brenton_Wood",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Brenton_Wood",
+                                    "edit": "https://en.m.wikipedia.org/wiki/Brenton_Wood?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Brenton_Wood"
+                                }
+                            },
+                            "extract": "Alfred Jesse Smith, known professionally as Brenton Wood, was an American singer and songwriter. Three 1967 singles of Wood's, \"The Oogum Boogum Song\", \"Gimme Little Sign\", and \"Baby You Got It\" were hits.",
+                            "extract_html": "<p><b>Alfred Jesse Smith</b>, known professionally as <b>Brenton Wood</b>, was an American singer and songwriter. Three 1967 singles of Wood's, \"The Oogum Boogum Song\", \"Gimme Little Sign\", and \"Baby You Got It\" were hits.</p>",
+                            "normalizedtitle": "Brenton Wood"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_3",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 3</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2156",
+                            "titles": {
+                                "canonical": "January_3",
+                                "normalized": "January 3",
+                                "display": "<span class=\"mw-page-title-main\">January 3</span>"
+                            },
+                            "pageid": 15789,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271516601",
+                            "tid": "1dd9174b-da49-11ef-ac67-29624cdf5b9a",
+                            "timestamp": "2025-01-24T11:48:24Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_3",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_3?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_3?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_3"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_3",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_3",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_3?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_3"
+                                }
+                            },
+                            "extract": "January 3 is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 3</b> is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 3"
                         }
                     ],
                     "year": 2025
@@ -863,102 +1039,6 @@
                             "extract": "Howard Buten, né le 28 juillet 1950 à Détroit (Michigan) et mort le 3 janvier 2025 à Plomodiern (Finistère), est un psychologue spécialiste de l'autisme, écrivain, acteur et clown américain. Il s'est fait connaître par ses livres et en tant qu'artiste de scène, sous les traits de Buffo.",
                             "extract_html": "<p><b>Howard Buten</b>, né le <time class=\"nowrap bday\" datetime=\"1950-07-28\">28 juillet 1950</time> à Détroit (Michigan) et mort le <time class=\"nowrap dday\" datetime=\"2025-01-03\">3 janvier 2025</time> à Plomodiern (Finistère), est un psychologue spécialiste de l'autisme, écrivain, acteur et clown américain. Il s'est fait connaître par ses livres et en tant qu'artiste de scène, sous les traits de <b>Buffo</b>.</p>",
                             "normalizedtitle": "Howard Buten"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Brenton Wood, American R&B singer-songwriter and keyboard player (b. 1941)",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Brenton_Wood",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Brenton Wood</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q1138676",
-                            "titles": {
-                                "canonical": "Brenton_Wood",
-                                "normalized": "Brenton Wood",
-                                "display": "<span class=\"mw-page-title-main\">Brenton Wood</span>"
-                            },
-                            "pageid": 5201098,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Brenton_Wood.png/320px-Brenton_Wood.png",
-                                "width": 320,
-                                "height": 320
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brenton_Wood.png",
-                                "width": 506,
-                                "height": 506
-                            },
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1269083379",
-                            "tid": "b7e1ac32-d13d-11ef-b032-cad2cfbb7a3d",
-                            "timestamp": "2025-01-12T23:34:08Z",
-                            "description": "American singer and songwriter (1941–2025)",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/Brenton_Wood",
-                                    "revisions": "https://en.wikipedia.org/wiki/Brenton_Wood?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/Brenton_Wood?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:Brenton_Wood"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/Brenton_Wood",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Brenton_Wood",
-                                    "edit": "https://en.m.wikipedia.org/wiki/Brenton_Wood?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Brenton_Wood"
-                                }
-                            },
-                            "extract": "Alfred Jesse Smith, known professionally as Brenton Wood, was an American singer and songwriter. Three 1967 singles of Wood's, \"The Oogum Boogum Song\", \"Gimme Little Sign\", and \"Baby You Got It\" were hits.",
-                            "extract_html": "<p><b>Alfred Jesse Smith</b>, known professionally as <b>Brenton Wood</b>, was an American singer and songwriter. Three 1967 singles of Wood's, \"The Oogum Boogum Song\", \"Gimme Little Sign\", and \"Baby You Got It\" were hits.</p>",
-                            "normalizedtitle": "Brenton Wood"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_3",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 3</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2156",
-                            "titles": {
-                                "canonical": "January_3",
-                                "normalized": "January 3",
-                                "display": "<span class=\"mw-page-title-main\">January 3</span>"
-                            },
-                            "pageid": 15789,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1271516601",
-                            "tid": "1dd9174b-da49-11ef-ac67-29624cdf5b9a",
-                            "timestamp": "2025-01-24T11:48:24Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_3",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_3?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_3?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_3"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_3",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_3",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_3?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_3"
-                                }
-                            },
-                            "extract": "January 3 is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.",
-                            "extract_html": "<p><b>January 3</b> is the third day of the year in the Gregorian calendar; 362 days remain until the end of the year.</p>",
-                            "normalizedtitle": "January 3"
                         }
                     ],
                     "year": 2025
@@ -1849,7 +1929,7 @@
         "data": {
             "deaths": [
                 {
-                    "text": "Claude Jarman Jr., acteur américain (° 27 septembre 1934).",
+                    "text": "Claude Jarman Jr., American actor and producer (b. 1934)",
                     "pages": [
                         {
                             "type": "standard",
@@ -1865,7 +1945,7 @@
                                 "normalized": "Claude Jarman Jr.",
                                 "display": "<span class=\"mw-page-title-main\">Claude Jarman Jr.</span>"
                             },
-                            "pageid": 5882523,
+                            "pageid": 804617,
                             "thumbnail": {
                                 "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Claude_Jarman_Jr._Still.jpg/320px-Claude_Jarman_Jr._Still.jpg",
                                 "width": 320,
@@ -1876,30 +1956,70 @@
                                 "width": 1154,
                                 "height": 1476
                             },
-                            "lang": "fr",
+                            "lang": "en",
                             "dir": "ltr",
-                            "revision": "222414868",
-                            "tid": "1a677a7f-dbbf-11ef-9608-0b6b02599acd",
-                            "timestamp": "2025-01-26T08:25:30Z",
-                            "description": "acteur américain",
-                            "description_source": "central",
+                            "revision": "1271261366",
+                            "tid": "9e6b03b4-d956-11ef-bf5f-1f28fe5f70fb",
+                            "timestamp": "2025-01-23T06:52:32Z",
+                            "description": "American actor (1934–2025)",
+                            "description_source": "local",
                             "content_urls": {
                                 "desktop": {
-                                    "page": "https://fr.wikipedia.org/wiki/Claude_Jarman_Jr.",
-                                    "revisions": "https://fr.wikipedia.org/wiki/Claude_Jarman_Jr.?action=history",
-                                    "edit": "https://fr.wikipedia.org/wiki/Claude_Jarman_Jr.?action=edit",
-                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:Claude_Jarman_Jr."
+                                    "page": "https://en.wikipedia.org/wiki/Claude_Jarman_Jr.",
+                                    "revisions": "https://en.wikipedia.org/wiki/Claude_Jarman_Jr.?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/Claude_Jarman_Jr.?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:Claude_Jarman_Jr."
                                 },
                                 "mobile": {
-                                    "page": "https://fr.m.wikipedia.org/wiki/Claude_Jarman_Jr.",
-                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/Claude_Jarman_Jr.",
-                                    "edit": "https://fr.m.wikipedia.org/wiki/Claude_Jarman_Jr.?action=edit",
-                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:Claude_Jarman_Jr."
+                                    "page": "https://en.m.wikipedia.org/wiki/Claude_Jarman_Jr.",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Claude_Jarman_Jr.",
+                                    "edit": "https://en.m.wikipedia.org/wiki/Claude_Jarman_Jr.?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Claude_Jarman_Jr."
                                 }
                             },
-                            "extract": "Claude Jarman Jr., né le 27 septembre 1934 à Nashville et mort le 12 janvier 2025 à Kentfield, est un acteur américain.",
-                            "extract_html": "<p><b>Claude Jarman Jr.</b>, né le <time class=\"nowrap bday\" datetime=\"1934-09-27\">27 septembre 1934</time> à Nashville et mort le <time class=\"nowrap dday\" datetime=\"2025-01-12\">12 janvier 2025</time> à Kentfield, est un acteur américain.</p>",
+                            "extract": "Claude Miller Jarman Jr. was an American actor. He became a child star with his role as Jody Baxter in The Yearling (1946), for which he won an Academy Juvenile Award. Further roles in films like Intruder in the Dust (1949) and Rio Grande (1950) followed. Jarman largely retired from acting in early adulthood and later served as executive director of the San Francisco International Film Festival, and director of Cultural Affairs for the City of San Francisco.",
+                            "extract_html": "<p><b>Claude Miller Jarman Jr.</b> was an American actor. He became a child star with his role as Jody Baxter in <i>The Yearling</i> (1946), for which he won an Academy Juvenile Award. Further roles in films like <i>Intruder in the Dust</i> (1949) and <i>Rio Grande</i> (1950) followed. Jarman largely retired from acting in early adulthood and later served as executive director of the San Francisco International Film Festival, and director of Cultural Affairs for the City of San Francisco.</p>",
                             "normalizedtitle": "Claude Jarman Jr."
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_12",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 12</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2248",
+                            "titles": {
+                                "canonical": "January_12",
+                                "normalized": "January 12",
+                                "display": "<span class=\"mw-page-title-main\">January 12</span>"
+                            },
+                            "pageid": 16112,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271046397",
+                            "tid": "6f9a5d49-d8b0-11ef-82b5-3cdab5f3455d",
+                            "timestamp": "2025-01-22T11:02:57Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_12",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_12?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_12?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_12"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_12",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_12",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_12?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_12"
+                                }
+                            },
+                            "extract": "January 12 is the 12th day of the year in the Gregorian calendar; 353 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 12</b> is the 12th day of the year in the Gregorian calendar; 353 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 12"
                         }
                     ],
                     "year": 2025
@@ -2067,6 +2187,294 @@
         "data": {
             "deaths": [
                 {
+                    "text": "Paul Danan, English actor and television personality (b. 1978)",
+                    "pages": [
+                        {
+                            "type": "standard",
+                            "title": "Paul_Danan",
+                            "displaytitle": "<span class=\"mw-page-title-main\">Paul Danan</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q16203716",
+                            "titles": {
+                                "canonical": "Paul_Danan",
+                                "normalized": "Paul Danan",
+                                "display": "<span class=\"mw-page-title-main\">Paul Danan</span>"
+                            },
+                            "pageid": 2073394,
+                            "thumbnail": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Paul_Danan.jpg/320px-Paul_Danan.jpg",
+                                "width": 320,
+                                "height": 641
+                            },
+                            "originalimage": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Paul_Danan.jpg",
+                                "width": 372,
+                                "height": 745
+                            },
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271856347",
+                            "tid": "a7900033-db89-11ef-a0b6-2c7158f086ec",
+                            "timestamp": "2025-01-26T02:02:54Z",
+                            "description": "English actor and television personality (1978–2025)",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/Paul_Danan",
+                                    "revisions": "https://en.wikipedia.org/wiki/Paul_Danan?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/Paul_Danan?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Danan"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/Paul_Danan",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Paul_Danan",
+                                    "edit": "https://en.m.wikipedia.org/wiki/Paul_Danan?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Paul_Danan"
+                                }
+                            },
+                            "extract": "Paul Louis Danan was an English actor and television personality, known for portraying the role of Sol Patrick in the Channel 4 soap opera Hollyoaks, between 1997 and 2001. In 2005, he appeared as a contestant on the first series of ITV's Celebrity Love Island and returned for the second series in 2006. He was also a housemate on the twentieth series of Celebrity Big Brother in 2017.",
+                            "extract_html": "<p><b>Paul Louis Danan</b> was an English actor and television personality, known for portraying the role of Sol Patrick in the Channel 4 soap opera <i>Hollyoaks</i>, between 1997 and 2001. In 2005, he appeared as a contestant on the first series of ITV's <i>Celebrity Love Island</i> and returned for the second series in 2006. He was also a housemate on the twentieth series of <i>Celebrity Big Brother</i> in 2017.</p>",
+                            "normalizedtitle": "Paul Danan"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_15",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 15</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2260",
+                            "titles": {
+                                "canonical": "January_15",
+                                "normalized": "January 15",
+                                "display": "<span class=\"mw-page-title-main\">January 15</span>"
+                            },
+                            "pageid": 15790,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271701506",
+                            "tid": "4536d027-daf0-11ef-97a8-e4d32eb87004",
+                            "timestamp": "2025-01-25T07:44:56Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_15?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_15"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_15",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_15"
+                                }
+                            },
+                            "extract": "January 15 is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 15</b> is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 15"
+                        }
+                    ],
+                    "year": 2025
+                },
+                {
+                    "text": "David Lynch, American television and film director, visual artist and musician, complications from emphysema (b. 1946)",
+                    "pages": [
+                        {
+                            "type": "standard",
+                            "title": "David_Lynch",
+                            "displaytitle": "<span class=\"mw-page-title-main\">David Lynch</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2071",
+                            "titles": {
+                                "canonical": "David_Lynch",
+                                "normalized": "David Lynch",
+                                "display": "<span class=\"mw-page-title-main\">David Lynch</span>"
+                            },
+                            "pageid": 7891,
+                            "thumbnail": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/David_Lynch_%281990%29.jpg/320px-David_Lynch_%281990%29.jpg",
+                                "width": 320,
+                                "height": 499
+                            },
+                            "originalimage": {
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg",
+                                "width": 715,
+                                "height": 1115
+                            },
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1272135009",
+                            "tid": "2d4780b8-dc8b-11ef-a10a-6592252ae904",
+                            "timestamp": "2025-01-27T08:46:19Z",
+                            "description": "American filmmaker (1946–2025)",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/David_Lynch",
+                                    "revisions": "https://en.wikipedia.org/wiki/David_Lynch?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/David_Lynch?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:David_Lynch"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/David_Lynch",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/David_Lynch",
+                                    "edit": "https://en.m.wikipedia.org/wiki/David_Lynch?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:David_Lynch"
+                                }
+                            },
+                            "extract": "David Keith Lynch was an American filmmaker, visual artist, musician, and actor. Considered one of the most important filmmakers of his era, Lynch was often called a \"visionary\" and was acclaimed for films often distinguished by their surrealist and experimental qualities. In a career spanning more than five decades, he received numerous accolades, including the Golden Lion for Lifetime Achievement at the Venice Film Festival in 2006 and an Honorary Academy Award in 2019. The adjective Lynchian came into use to describe works or situations reminiscent of his art, with the Oxford English Dictionary noting his penchant for \"juxtaposing surreal or sinister elements with mundane, everyday environments, and for using compelling visual images to emphasize a dreamlike quality of mystery or menace\".",
+                            "extract_html": "<p><b>David Keith Lynch</b> was an American filmmaker, visual artist, musician, and actor. Considered one of the most important filmmakers of his era, Lynch was often called a \"visionary\" and was acclaimed for films often distinguished by their surrealist and experimental qualities. In a career spanning more than five decades, he received numerous accolades, including the Golden Lion for Lifetime Achievement at the Venice Film Festival in 2006 and an Honorary Academy Award in 2019. The adjective <i lang=\"en\"><span class=\"extiw\">Lynchian</span></i> came into use to describe works or situations reminiscent of his art, with the <i>Oxford English Dictionary</i> noting his penchant for \"juxtaposing surreal or sinister elements with mundane, everyday environments, and for using compelling visual images to emphasize a dreamlike quality of mystery or menace\".</p>",
+                            "normalizedtitle": "David Lynch"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_15",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 15</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2260",
+                            "titles": {
+                                "canonical": "January_15",
+                                "normalized": "January 15",
+                                "display": "<span class=\"mw-page-title-main\">January 15</span>"
+                            },
+                            "pageid": 15790,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271701506",
+                            "tid": "4536d027-daf0-11ef-97a8-e4d32eb87004",
+                            "timestamp": "2025-01-25T07:44:56Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_15?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_15"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_15",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_15"
+                                }
+                            },
+                            "extract": "January 15 is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 15</b> is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 15"
+                        }
+                    ],
+                    "year": 2025
+                },
+                {
+                    "text": "Linda Nolan, Irish singer and actress (b. 1959)",
+                    "pages": [
+                        {
+                            "type": "standard",
+                            "title": "Linda_Nolan",
+                            "displaytitle": "<span class=\"mw-page-title-main\">Linda Nolan</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q16193271",
+                            "titles": {
+                                "canonical": "Linda_Nolan",
+                                "normalized": "Linda Nolan",
+                                "display": "<span class=\"mw-page-title-main\">Linda Nolan</span>"
+                            },
+                            "pageid": 26499344,
+                            "thumbnail": {
+                                "source": "https://upload.wikimedia.org/wikipedia/en/d/d9/Linda_Nolan_CBB.jpg",
+                                "width": 282,
+                                "height": 353
+                            },
+                            "originalimage": {
+                                "source": "https://upload.wikimedia.org/wikipedia/en/d/d9/Linda_Nolan_CBB.jpg",
+                                "width": 282,
+                                "height": 353
+                            },
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271527913",
+                            "tid": "f80535fc-da53-11ef-8f27-4ab3199fd706",
+                            "timestamp": "2025-01-24T13:06:05Z",
+                            "description": "Irish singer and actress (1959–2025)",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/Linda_Nolan",
+                                    "revisions": "https://en.wikipedia.org/wiki/Linda_Nolan?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/Linda_Nolan?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:Linda_Nolan"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/Linda_Nolan",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Linda_Nolan",
+                                    "edit": "https://en.m.wikipedia.org/wiki/Linda_Nolan?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Linda_Nolan"
+                                }
+                            },
+                            "extract": "Linda Mary Nolan was an Irish singer, actress and television personality.",
+                            "extract_html": "<p><b>Linda Mary Nolan</b> was an Irish singer, actress and television personality.</p>",
+                            "normalizedtitle": "Linda Nolan"
+                        },
+                        {
+                            "type": "standard",
+                            "title": "January_15",
+                            "displaytitle": "<span class=\"mw-page-title-main\">January 15</span>",
+                            "namespace": {
+                                "id": 0,
+                                "text": ""
+                            },
+                            "wikibase_item": "Q2260",
+                            "titles": {
+                                "canonical": "January_15",
+                                "normalized": "January 15",
+                                "display": "<span class=\"mw-page-title-main\">January 15</span>"
+                            },
+                            "pageid": 15790,
+                            "lang": "en",
+                            "dir": "ltr",
+                            "revision": "1271701506",
+                            "tid": "4536d027-daf0-11ef-97a8-e4d32eb87004",
+                            "timestamp": "2025-01-25T07:44:56Z",
+                            "description": "Day of the year",
+                            "description_source": "local",
+                            "content_urls": {
+                                "desktop": {
+                                    "page": "https://en.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.wikipedia.org/wiki/January_15?action=history",
+                                    "edit": "https://en.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_15"
+                                },
+                                "mobile": {
+                                    "page": "https://en.m.wikipedia.org/wiki/January_15",
+                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_15",
+                                    "edit": "https://en.m.wikipedia.org/wiki/January_15?action=edit",
+                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_15"
+                                }
+                            },
+                            "extract": "January 15 is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.",
+                            "extract_html": "<p><b>January 15</b> is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.</p>",
+                            "normalizedtitle": "January 15"
+                        }
+                    ],
+                    "year": 2025
+                },
+                {
                     "text": "Patricia Lyfoung, autrice de bande dessinée française (° 18 décembre 1977).",
                     "pages": [
                         {
@@ -2123,62 +2531,6 @@
                     "year": 2025
                 },
                 {
-                    "text": "David Lynch, cinéaste, scénariste, photographe, musicien et peintre américain (° 20 janvier 1946).",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "David_Lynch",
-                            "displaytitle": "<span class=\"mw-page-title-main\">David Lynch</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2071",
-                            "titles": {
-                                "canonical": "David_Lynch",
-                                "normalized": "David Lynch",
-                                "display": "<span class=\"mw-page-title-main\">David Lynch</span>"
-                            },
-                            "pageid": 883,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/David_Lynch_Cannes_2017.jpg/320px-David_Lynch_Cannes_2017.jpg",
-                                "width": 320,
-                                "height": 474
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/David_Lynch_Cannes_2017.jpg",
-                                "width": 517,
-                                "height": 765
-                            },
-                            "lang": "fr",
-                            "dir": "ltr",
-                            "revision": "222439998",
-                            "tid": "580df147-dc43-11ef-a413-07e58ec20384",
-                            "timestamp": "2025-01-27T00:12:07Z",
-                            "description": "cinéaste, photographe, musicien et peintre américain",
-                            "description_source": "central",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://fr.wikipedia.org/wiki/David_Lynch",
-                                    "revisions": "https://fr.wikipedia.org/wiki/David_Lynch?action=history",
-                                    "edit": "https://fr.wikipedia.org/wiki/David_Lynch?action=edit",
-                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:David_Lynch"
-                                },
-                                "mobile": {
-                                    "page": "https://fr.m.wikipedia.org/wiki/David_Lynch",
-                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/David_Lynch",
-                                    "edit": "https://fr.m.wikipedia.org/wiki/David_Lynch?action=edit",
-                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:David_Lynch"
-                                }
-                            },
-                            "extract": "David Lynch [ˈdeɪvɪd lɪnt͡ʃ ], né le 20 janvier 1946 à Missoula (Montana) et mort le 15 janvier 2025, est un cinéaste, scénariste, photographe, musicien et peintre américain.",
-                            "extract_html": "<p><b>David Lynch</b> <span class=\"API nowrap\">[ˈdeɪvɪd lɪnt͡ʃ ]</span>, né le <time class=\"nowrap bday\" datetime=\"1946-01-20\">20 janvier 1946</time> à Missoula (Montana) et mort le <time class=\"nowrap dday\" datetime=\"2025-01-15\">15 janvier 2025</time>, est un cinéaste, scénariste, photographe, musicien et peintre américain.</p>",
-                            "normalizedtitle": "David Lynch"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
                     "text": "Melba Montgomery, chanteuse américaine (° 14 octobre 1938).",
                     "pages": [
                         {
@@ -2230,52 +2582,6 @@
                             "extract": "Melba Joyce Montgomery, née le 14 octobre 1938 à Iron City (Tennessee) et morte à Nashville (Tennessee) le 15 janvier 2025, est une chanteuse américaine, auteure-compositrice-interprète de musique country, connue pour une série d'enregistrements en solo ou en duo avec George Jones, et Gene Pitney notamment, et pour plusieurs succès, tels No Charge, Baby, Ain't That Fine ou encore We Must Have Been Out of Our Minds.",
                             "extract_html": "<p><b>Melba</b> Joyce <b>Montgomery</b>, née le <time class=\"nowrap bday\" datetime=\"1938-10-14\">14 octobre 1938</time> à Iron City (Tennessee) et morte à Nashville (Tennessee) le 15 janvier 2025, est une chanteuse américaine, auteure-compositrice-interprète de musique country, connue pour une série d'enregistrements en solo ou en duo avec George Jones, et Gene Pitney notamment, et pour plusieurs succès, tels <i>No Charge</i>, <i>Baby, Ain't That Fine</i> ou encore <i>We Must Have Been Out of Our Minds</i>.</p>",
                             "normalizedtitle": "Melba Montgomery"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Linda Nolan, chanteuse, actrice et personnalité de la télévision irlandaise (° 23 février 1959).",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Linda_Nolan",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Linda Nolan</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q16193271",
-                            "titles": {
-                                "canonical": "Linda_Nolan",
-                                "normalized": "Linda Nolan",
-                                "display": "<span class=\"mw-page-title-main\">Linda Nolan</span>"
-                            },
-                            "pageid": 16060988,
-                            "lang": "fr",
-                            "dir": "ltr",
-                            "revision": "222377783",
-                            "tid": "2105eadd-daad-11ef-94eb-20216c4fbb8e",
-                            "timestamp": "2025-01-24T23:44:19Z",
-                            "description": "musicienne irlandaise",
-                            "description_source": "central",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://fr.wikipedia.org/wiki/Linda_Nolan",
-                                    "revisions": "https://fr.wikipedia.org/wiki/Linda_Nolan?action=history",
-                                    "edit": "https://fr.wikipedia.org/wiki/Linda_Nolan?action=edit",
-                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:Linda_Nolan"
-                                },
-                                "mobile": {
-                                    "page": "https://fr.m.wikipedia.org/wiki/Linda_Nolan",
-                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/Linda_Nolan",
-                                    "edit": "https://fr.m.wikipedia.org/wiki/Linda_Nolan?action=edit",
-                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:Linda_Nolan"
-                                }
-                            },
-                            "extract": "Linda Nolan, née le 23 février 1959 à Dublin et morte le 15 janvier 2025 à Blackpool en Angleterre, est une chanteuse, actrice et personnalité de la télévision irlandaise. Elle accède à la notoriété en tant que membre du groupe féminin The Nolans en 1974, avec ses sœurs Anne, Denise, Maureen, Bernie et Coleen.",
-                            "extract_html": "<p><b>Linda Nolan</b>, née le <time class=\"nowrap bday\" datetime=\"1959-02-23\">23 février 1959</time> à Dublin et morte le <time class=\"nowrap dday\" datetime=\"2025-01-15\">15 janvier 2025</time> à Blackpool en Angleterre, est une chanteuse, actrice et personnalité de la télévision irlandaise. Elle accède à la notoriété en tant que membre du groupe féminin The Nolans en 1974, avec ses sœurs Anne, Denise, Maureen, Bernie et Coleen.</p>",
-                            "normalizedtitle": "Linda Nolan"
                         }
                     ],
                     "year": 2025
@@ -2378,102 +2684,6 @@
                             "extract": "Jeannot Szwarc est un réalisateur français, né le 21 novembre 1937 à Paris 6e et mort le 15 janvier 2025 à Loches.",
                             "extract_html": "<p><b>Jeannot Szwarc</b> est un réalisateur français, né le <time class=\"nowrap bday\" datetime=\"1937-11-21\">21 novembre 1937</time> à <span>Paris <abbr class=\"abbr\">6<sup>e</sup></abbr></span> et mort le <time class=\"nowrap dday\" datetime=\"2025-01-15\">15 janvier 2025</time> à Loches.</p>",
                             "normalizedtitle": "Jeannot Szwarc"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Paul Danan, English actor and television personality (b. 1978)",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Paul_Danan",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Paul Danan</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q16203716",
-                            "titles": {
-                                "canonical": "Paul_Danan",
-                                "normalized": "Paul Danan",
-                                "display": "<span class=\"mw-page-title-main\">Paul Danan</span>"
-                            },
-                            "pageid": 2073394,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Paul_Danan.jpg/320px-Paul_Danan.jpg",
-                                "width": 320,
-                                "height": 641
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Paul_Danan.jpg",
-                                "width": 372,
-                                "height": 745
-                            },
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1271856347",
-                            "tid": "a7900033-db89-11ef-a0b6-2c7158f086ec",
-                            "timestamp": "2025-01-26T02:02:54Z",
-                            "description": "English actor and television personality (1978–2025)",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/Paul_Danan",
-                                    "revisions": "https://en.wikipedia.org/wiki/Paul_Danan?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/Paul_Danan?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Danan"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/Paul_Danan",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Paul_Danan",
-                                    "edit": "https://en.m.wikipedia.org/wiki/Paul_Danan?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Paul_Danan"
-                                }
-                            },
-                            "extract": "Paul Louis Danan was an English actor and television personality, known for portraying the role of Sol Patrick in the Channel 4 soap opera Hollyoaks, between 1997 and 2001. In 2005, he appeared as a contestant on the first series of ITV's Celebrity Love Island and returned for the second series in 2006. He was also a housemate on the twentieth series of Celebrity Big Brother in 2017.",
-                            "extract_html": "<p><b>Paul Louis Danan</b> was an English actor and television personality, known for portraying the role of Sol Patrick in the Channel 4 soap opera <i>Hollyoaks</i>, between 1997 and 2001. In 2005, he appeared as a contestant on the first series of ITV's <i>Celebrity Love Island</i> and returned for the second series in 2006. He was also a housemate on the twentieth series of <i>Celebrity Big Brother</i> in 2017.</p>",
-                            "normalizedtitle": "Paul Danan"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_15",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 15</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2260",
-                            "titles": {
-                                "canonical": "January_15",
-                                "normalized": "January 15",
-                                "display": "<span class=\"mw-page-title-main\">January 15</span>"
-                            },
-                            "pageid": 15790,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1271701506",
-                            "tid": "4536d027-daf0-11ef-97a8-e4d32eb87004",
-                            "timestamp": "2025-01-25T07:44:56Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_15",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_15?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_15?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_15"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_15",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_15",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_15?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_15"
-                                }
-                            },
-                            "extract": "January 15 is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.",
-                            "extract_html": "<p><b>January 15</b> is the 15th day of the year in the Gregorian calendar; 350 days remain until the end of the year.</p>",
-                            "normalizedtitle": "January 15"
                         }
                     ],
                     "year": 2025
