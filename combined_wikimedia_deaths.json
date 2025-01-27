@@ -4,199 +4,7 @@
         "data": {
             "deaths": [
                 {
-                    "text": "David Lodge, English author and critic (b. 1935)",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "David_Lodge_(author)",
-                            "displaytitle": "<span class=\"mw-page-title-main\">David Lodge (author)</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q313001",
-                            "titles": {
-                                "canonical": "David_Lodge_(author)",
-                                "normalized": "David Lodge (author)",
-                                "display": "<span class=\"mw-page-title-main\">David Lodge (author)</span>"
-                            },
-                            "pageid": 237852,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/David_Lodge.webp/264px-David_Lodge.webp.png",
-                                "width": 320,
-                                "height": 327
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/David_Lodge.webp/264px-David_Lodge.webp.png",
-                                "width": 264,
-                                "height": 270
-                            },
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1270919670",
-                            "tid": "24486057-d840-11ef-b580-b60b588f9f37",
-                            "timestamp": "2025-01-21T21:39:07Z",
-                            "description": "English writer (1935–2025)",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/David_Lodge_(author)",
-                                    "revisions": "https://en.wikipedia.org/wiki/David_Lodge_(author)?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/David_Lodge_(author)?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:David_Lodge_(author)"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/David_Lodge_(author)",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/David_Lodge_(author)",
-                                    "edit": "https://en.m.wikipedia.org/wiki/David_Lodge_(author)?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:David_Lodge_(author)"
-                                }
-                            },
-                            "extract": "David John Lodge was an English author and critic. He was a literature professor at the University of Birmingham until 1987, and some of his novels satirise academic life, notably the \"Campus Trilogy\" – Changing Places: A Tale of Two Campuses (1975), Small World: An Academic Romance (1984) and Nice Work (1988). The second two were shortlisted for the Booker Prize. Another theme is Roman Catholicism, beginning from his first published novel The Picturegoers (1960). Lodge also wrote television screenplays and three stage plays. After retiring, he continued to publish literary criticism. His edition of Twentieth Century Literary Criticism (1972) includes essays on 20th-century writers such as T. S. Eliot. In 1992, he published The Art of Fiction, a collection of essays on literary techniques with illustrative examples from great authors, such as \"Point of View\", \"The Stream of Consciousness\" and \"Interior Monologue\", beginning with \"Beginning\" and ending with \"Ending\".",
-                            "extract_html": "<p><b>David John Lodge</b> was an English author and critic. He was a literature professor at the University of Birmingham until 1987, and some of his novels satirise academic life, notably the \"Campus Trilogy\" – <i>Changing Places: A Tale of Two Campuses</i> (1975), <i>Small World: An Academic Romance</i> (1984) and <i>Nice Work</i> (1988). The second two were shortlisted for the Booker Prize. Another theme is Roman Catholicism, beginning from his first published novel <i>The Picturegoers</i> (1960). Lodge also wrote television screenplays and three stage plays. After retiring, he continued to publish literary criticism. His edition of <i>Twentieth Century Literary Criticism</i> (1972) includes essays on 20th-century writers such as T. S. Eliot. In 1992, he published <i>The Art of Fiction</i>, a collection of essays on literary techniques with illustrative examples from great authors, such as \"Point of View\", \"The Stream of Consciousness\" and \"Interior Monologue\", beginning with \"Beginning\" and ending with \"Ending\".</p>",
-                            "normalizedtitle": "David Lodge (author)"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_1",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 1</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2150",
-                            "titles": {
-                                "canonical": "January_1",
-                                "normalized": "January 1",
-                                "display": "<span class=\"mw-page-title-main\">January 1</span>"
-                            },
-                            "pageid": 15787,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1270795482",
-                            "tid": "e1499e5a-d7c5-11ef-8896-6350236ee8a1",
-                            "timestamp": "2025-01-21T07:03:56Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_1?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_1"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_1",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_1"
-                                }
-                            },
-                            "extract": "January 1 is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.",
-                            "extract_html": "<p><b>January 1</b> is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.</p>",
-                            "normalizedtitle": "January 1"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Chad Morgan, Australian musician (b. 1933)",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Chad_Morgan",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Chad Morgan</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q5066309",
-                            "titles": {
-                                "canonical": "Chad_Morgan",
-                                "normalized": "Chad Morgan",
-                                "display": "<span class=\"mw-page-title-main\">Chad Morgan</span>"
-                            },
-                            "pageid": 1909328,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ChadMorganJun2011.jpg/320px-ChadMorganJun2011.jpg",
-                                "width": 320,
-                                "height": 480
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/ChadMorganJun2011.jpg",
-                                "width": 550,
-                                "height": 825
-                            },
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1269081519",
-                            "tid": "0d1cb628-d13c-11ef-9188-33ef3c1701fa",
-                            "timestamp": "2025-01-12T23:22:12Z",
-                            "description": "Australian musician (1933–2025)",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/Chad_Morgan",
-                                    "revisions": "https://en.wikipedia.org/wiki/Chad_Morgan?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/Chad_Morgan?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:Chad_Morgan"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/Chad_Morgan",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Chad_Morgan",
-                                    "edit": "https://en.m.wikipedia.org/wiki/Chad_Morgan?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Chad_Morgan"
-                                }
-                            },
-                            "extract": "Chadwick William Morgan was an Australian country music singer and guitarist known for his vaudeville style of comic country and western and folk songs, his prominent teeth and goofy stage persona. In reference to his first recording, he was known as \"The Sheik of Scrubby Creek\".",
-                            "extract_html": "<p><b>Chadwick William Morgan</b> was an Australian country music singer and guitarist known for his vaudeville style of comic country and western and folk songs, his prominent teeth and goofy stage persona. In reference to his first recording, he was known as \"The Sheik of Scrubby Creek\".</p>",
-                            "normalizedtitle": "Chad Morgan"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_1",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 1</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2150",
-                            "titles": {
-                                "canonical": "January_1",
-                                "normalized": "January 1",
-                                "display": "<span class=\"mw-page-title-main\">January 1</span>"
-                            },
-                            "pageid": 15787,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1270795482",
-                            "tid": "e1499e5a-d7c5-11ef-8896-6350236ee8a1",
-                            "timestamp": "2025-01-21T07:03:56Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_1?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_1"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_1",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_1"
-                                }
-                            },
-                            "extract": "January 1 is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.",
-                            "extract_html": "<p><b>January 1</b> is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.</p>",
-                            "normalizedtitle": "January 1"
-                        }
-                    ],
-                    "year": 2025
-                },
-                {
-                    "text": "Wayne Osmond, American singer-songwriter and actor (b. 1951)",
+                    "text": "Wayne Osmond, chanteur américain (° 28 août 1951).",
                     "pages": [
                         {
                             "type": "standard",
@@ -212,7 +20,7 @@
                                 "normalized": "Wayne Osmond",
                                 "display": "<span class=\"mw-page-title-main\">Wayne Osmond</span>"
                             },
-                            "pageid": 3683615,
+                            "pageid": 16656481,
                             "thumbnail": {
                                 "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wayne_Osmond_%28cropped%29.JPG/320px-Wayne_Osmond_%28cropped%29.JPG",
                                 "width": 320,
@@ -223,70 +31,30 @@
                                 "width": 331,
                                 "height": 410
                             },
-                            "lang": "en",
+                            "lang": "fr",
                             "dir": "ltr",
-                            "revision": "1270030242",
-                            "tid": "d73848c1-d4ea-11ef-a132-45f6e67db95d",
-                            "timestamp": "2025-01-17T15:50:57Z",
-                            "description": "American musician (1951–2025)",
-                            "description_source": "local",
+                            "revision": "222107859",
+                            "tid": "ce90264c-d318-11ef-90e2-cd26cf718461",
+                            "timestamp": "2025-01-15T08:14:57Z",
+                            "description": "chanteur et multi-instrumentiste américain du groupe \"The Osmonds\"",
+                            "description_source": "central",
                             "content_urls": {
                                 "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/Wayne_Osmond",
-                                    "revisions": "https://en.wikipedia.org/wiki/Wayne_Osmond?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/Wayne_Osmond?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:Wayne_Osmond"
+                                    "page": "https://fr.wikipedia.org/wiki/Wayne_Osmond",
+                                    "revisions": "https://fr.wikipedia.org/wiki/Wayne_Osmond?action=history",
+                                    "edit": "https://fr.wikipedia.org/wiki/Wayne_Osmond?action=edit",
+                                    "talk": "https://fr.wikipedia.org/wiki/Discussion:Wayne_Osmond"
                                 },
                                 "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/Wayne_Osmond",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Wayne_Osmond",
-                                    "edit": "https://en.m.wikipedia.org/wiki/Wayne_Osmond?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Wayne_Osmond"
+                                    "page": "https://fr.m.wikipedia.org/wiki/Wayne_Osmond",
+                                    "revisions": "https://fr.m.wikipedia.org/wiki/Special:History/Wayne_Osmond",
+                                    "edit": "https://fr.m.wikipedia.org/wiki/Wayne_Osmond?action=edit",
+                                    "talk": "https://fr.m.wikipedia.org/wiki/Discussion:Wayne_Osmond"
                                 }
                             },
-                            "extract": "Melvin Wayne Osmond was an American musician. He was the second-oldest of the original Osmond Brothers singers and the fourth oldest of the nine Osmond siblings.",
-                            "extract_html": "<p><b>Melvin Wayne Osmond</b> was an American musician. He was the second-oldest of the original Osmond Brothers singers and the fourth oldest of the nine Osmond siblings.</p>",
+                            "extract": "Melvin Wayne Osmond, dit Wayne Osmond, né le 28 août 1951 à Ogden (Utah) et mort le 1er janvier 2025 à Salt Lake City (Utah), est un chanteur américain, membre fondateur du groupe The Osmonds.",
+                            "extract_html": "<p><b>Melvin Wayne Osmond</b>, dit <b>Wayne Osmond</b>, né le <time class=\"nowrap bday\" datetime=\"1951-08-28\">28 août 1951</time> à Ogden (Utah) et mort le <time class=\"nowrap dday\" datetime=\"2025-01-01\"><abbr class=\"abbr\">1<sup>er</sup></abbr> janvier 2025</time> à Salt Lake City (Utah), est un chanteur américain, membre fondateur du groupe The Osmonds.</p>",
                             "normalizedtitle": "Wayne Osmond"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_1",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 1</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2150",
-                            "titles": {
-                                "canonical": "January_1",
-                                "normalized": "January 1",
-                                "display": "<span class=\"mw-page-title-main\">January 1</span>"
-                            },
-                            "pageid": 15787,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1270795482",
-                            "tid": "e1499e5a-d7c5-11ef-8896-6350236ee8a1",
-                            "timestamp": "2025-01-21T07:03:56Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_1?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_1"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_1",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_1",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_1?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_1"
-                                }
-                            },
-                            "extract": "January 1 is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.",
-                            "extract_html": "<p><b>January 1</b> is the first day of the year in the Gregorian Calendar; 364 days remain until the end of the year. This day is also known as New Year's Day since the day marks the beginning of the year.</p>",
-                            "normalizedtitle": "January 1"
                         }
                     ],
                     "year": 2025
@@ -2673,102 +2441,6 @@
         "date": "1/7/2025",
         "data": {
             "deaths": [
-                {
-                    "text": "Jean-Marie Le Pen, French intelligence officer and politician (b. 1928)",
-                    "pages": [
-                        {
-                            "type": "standard",
-                            "title": "Jean-Marie_Le_Pen",
-                            "displaytitle": "<span class=\"mw-page-title-main\">Jean-Marie Le Pen</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q7177",
-                            "titles": {
-                                "canonical": "Jean-Marie_Le_Pen",
-                                "normalized": "Jean-Marie Le Pen",
-                                "display": "<span class=\"mw-page-title-main\">Jean-Marie Le Pen</span>"
-                            },
-                            "pageid": 49955,
-                            "thumbnail": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Le_Pen_Jean-Marie_1999.jpg/320px-Le_Pen_Jean-Marie_1999.jpg",
-                                "width": 320,
-                                "height": 468
-                            },
-                            "originalimage": {
-                                "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Le_Pen_Jean-Marie_1999.jpg",
-                                "width": 1505,
-                                "height": 2203
-                            },
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1271400055",
-                            "tid": "fa757ffd-d9d6-11ef-b2ee-9b9f0cd6f1a6",
-                            "timestamp": "2025-01-23T22:11:22Z",
-                            "description": "French politician (1928–2025)",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/Jean-Marie_Le_Pen",
-                                    "revisions": "https://en.wikipedia.org/wiki/Jean-Marie_Le_Pen?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/Jean-Marie_Le_Pen?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:Jean-Marie_Le_Pen"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/Jean-Marie_Le_Pen",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jean-Marie_Le_Pen",
-                                    "edit": "https://en.m.wikipedia.org/wiki/Jean-Marie_Le_Pen?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:Jean-Marie_Le_Pen"
-                                }
-                            },
-                            "extract": "Jean Louis Marie Le Pen, commonly known as Jean-Marie Le Pen, was a French far-right politician. He focused on issues related to immigration to France, the European Union, traditional culture and values, law and order, and France's high rate of unemployment. His progression in the 1980s is known as the \"lepénisation of minds\" due to its noticeable effect on mainstream political opinion. His controversial speeches and his integration into public life made him a figure who polarized opinion. He was convicted of statements downplaying the Holocaust, and fined for incitement to discrimination regarding remarks made about Muslims in France.",
-                            "extract_html": "<p><b>Jean Louis Marie Le Pen</b>, commonly known as <b>Jean-Marie Le Pen</b>, was a French far-right politician. He focused on issues related to immigration to France, the European Union, traditional culture and values, law and order, and France's high rate of unemployment. His progression in the 1980s is known as the \"<i lang=\"fr\"><span class=\"extiw\">lepénisation</span></i> of minds\" due to its noticeable effect on mainstream political opinion. His controversial speeches and his integration into public life made him a figure who polarized opinion. He was convicted of statements downplaying the Holocaust, and fined for incitement to discrimination regarding remarks made about Muslims in France.</p>",
-                            "normalizedtitle": "Jean-Marie Le Pen"
-                        },
-                        {
-                            "type": "standard",
-                            "title": "January_7",
-                            "displaytitle": "<span class=\"mw-page-title-main\">January 7</span>",
-                            "namespace": {
-                                "id": 0,
-                                "text": ""
-                            },
-                            "wikibase_item": "Q2228",
-                            "titles": {
-                                "canonical": "January_7",
-                                "normalized": "January 7",
-                                "display": "<span class=\"mw-page-title-main\">January 7</span>"
-                            },
-                            "pageid": 15987,
-                            "lang": "en",
-                            "dir": "ltr",
-                            "revision": "1271138334",
-                            "tid": "6206bc67-d8f4-11ef-bcbe-744000a7640b",
-                            "timestamp": "2025-01-22T19:09:20Z",
-                            "description": "Day of the year",
-                            "description_source": "local",
-                            "content_urls": {
-                                "desktop": {
-                                    "page": "https://en.wikipedia.org/wiki/January_7",
-                                    "revisions": "https://en.wikipedia.org/wiki/January_7?action=history",
-                                    "edit": "https://en.wikipedia.org/wiki/January_7?action=edit",
-                                    "talk": "https://en.wikipedia.org/wiki/Talk:January_7"
-                                },
-                                "mobile": {
-                                    "page": "https://en.m.wikipedia.org/wiki/January_7",
-                                    "revisions": "https://en.m.wikipedia.org/wiki/Special:History/January_7",
-                                    "edit": "https://en.m.wikipedia.org/wiki/January_7?action=edit",
-                                    "talk": "https://en.m.wikipedia.org/wiki/Talk:January_7"
-                                }
-                            },
-                            "extract": "January 7 is the seventh day of the year in the Gregorian calendar; 358 days remain until the end of the year.",
-                            "extract_html": "<p><b>January 7</b> is the seventh day of the year in the Gregorian calendar; 358 days remain until the end of the year.</p>",
-                            "normalizedtitle": "January 7"
-                        }
-                    ],
-                    "year": 2025
-                },
                 {
                     "text": "Peter Yarrow, American singer-songwriter, guitarist, and producer (b. 1938)",
                     "pages": [
