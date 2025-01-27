@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined Wikimedia Deaths</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .death-entry {
+            margin-bottom: 20px;
+        }
+        .date {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        .title {
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+        .extract {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Combined Wikimedia Deaths</h1>
+    <div id="deaths-container"></div>
+
+    <script>
+        fetch('combined_wikimedia_deaths.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('deaths-container');
+                data.forEach(entry => {
+                    const dateDiv = document.createElement('div');
+                    dateDiv.className = 'date';
+                    dateDiv.textContent = entry.date;
+                    container.appendChild(dateDiv);
+
+                    entry.data.deaths.forEach(death => {
+                        const deathDiv = document.createElement('div');
+                        deathDiv.className = 'death-entry';
+
+                        const titleDiv = document.createElement('div');
+                        titleDiv.className = 'title';
+                        titleDiv.textContent = death.pages[0].normalizedtitle;
+                        deathDiv.appendChild(titleDiv);
+
+                        const extractDiv = document.createElement('div');
+                        extractDiv.className = 'extract';
+                        extractDiv.innerHTML = death.pages[0].extract_html;
+                        deathDiv.appendChild(extractDiv);
+
+                        container.appendChild(deathDiv);
+                    });
+                });
+            })
+            .catch(error => console.error('Error fetching the JSON data:', error));
+    </script>
+</body>
+</html>
