@@ -60,16 +60,16 @@
                         const row = document.createElement('tr');
 
                         const nameCell = document.createElement('td');
-                        nameCell.textContent = death.pages[0].normalizedtitle;
+                        nameCell.textContent = death.title;
                         row.appendChild(nameCell);
 
                         const extractCell = document.createElement('td');
-                        extractCell.innerHTML = death.pages[0].extract_html;
+                        extractCell.textContent = death.extract;
                         row.appendChild(extractCell);
 
                         const urlCell = document.createElement('td');
                         const link = document.createElement('a');
-                        link.href = death.pages[0].content_urls.desktop.page;
+                        link.href = death.content_url;
                         link.textContent = 'Link';
                         link.target = '_blank';
                         urlCell.appendChild(link);
