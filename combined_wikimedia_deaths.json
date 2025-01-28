@@ -588,12 +588,66 @@
                     "content_url": "https://en.wikipedia.org/wiki/Gloria_Romero_(actress)",
                     "language": "en",
                     "extract": "Gloria Anne Borrego Galla, known professionally as Gloria Romero, was a Filipino actress. With a career spanning 70 years, she appeared in over 250 motion pictures and television productions. Often referred to as the \"Queen of Philippine Cinema\", she was known for her sophisticated screen persona and restrained acting style. Romero was the Philippines' highest-paid movie actress in the 1950s and was one of the top box-office draws for nearly two decades, making her one of the major stars of the first Golden Age of Philippine Cinema."
+                },
+                {
+                    "text": "Marlène Canguio, athlète de haies française (° 10 mars 1942).",
+                    "title": "Marlène_Canguio",
+                    "description": "athlète française",
+                    "content_url": "https://fr.wikipedia.org/wiki/Marl%C3%A8ne_Canguio",
+                    "language": "fr",
+                    "extract": "Marlène Canguio, née le 10 mars 1942 à Sainte-Rose, Guadeloupe et morte le 25 janvier 2025, est une athlète française, spécialiste des courses de haies dans les années 1960."
+                },
+                {
+                    "text": "Ikujiro Nonaka, économiste japonais (° 10 mai 1935).",
+                    "title": "Ikujiro_Nonaka",
+                    "description": "économiste japonais",
+                    "content_url": "https://fr.wikipedia.org/wiki/Ikujiro_Nonaka",
+                    "language": "fr",
+                    "extract": "Ikujirō Nonaka (野中 郁次郎, Nonaka Ikujirō), né le 10 mai 1935 à Tokyo où il meurt le 25 janvier 2025, est un économiste japonais, devenu professeur émérite à l'Université Hitotsubashi, au sein de la Graduate School of International Corporate Strategy."
+                },
+                {
+                    "text": "Anastase de Tirana, primat de l'Église orthodoxe albanaise (° 4 novembre 1929).",
+                    "title": "Anastase_de_Tirana",
+                    "description": "primat de l'Église orthodoxe albanaise",
+                    "content_url": "https://fr.wikipedia.org/wiki/Anastase_de_Tirana",
+                    "language": "fr",
+                    "extract": "L'archevêque Anastase, né le 4 novembre 1929 au Pirée en Grèce et mort le 25 janvier 2025 à Athènes, est le primat de l'Église orthodoxe albanaise avec le titre d'Archevêque de Tirana, de Durrës et de toute l'Albanie."
+                },
+                {
+                    "text": "Greg Bell, athlète de saut en longueur américain (° 7 novembre 1930).",
+                    "title": "Greg_Bell",
+                    "description": "athlète américain",
+                    "content_url": "https://fr.wikipedia.org/wiki/Greg_Bell",
+                    "language": "fr",
+                    "extract": "Gregory Curtis « Greg » Bell, né le 7 novembre 1930 à Terre Haute et mort le 25 janvier 2025, est un athlète américain spécialiste du saut en longueur, champion olympique en 1956."
+                },
+                {
+                    "text": "Dražen Dalipagić, basketteur puis entraîneur yougoslave puis serbe (° 27 novembre 1951).",
+                    "title": "Dražen_Dalipagić",
+                    "description": "joueur de basket-ball serbe",
+                    "content_url": "https://fr.wikipedia.org/wiki/Dra%C5%BEen_Dalipagi%C4%87",
+                    "language": "fr",
+                    "extract": "Dražen Dalipagić, en serbe en écriture cyrillique : Дражен Далипагић, né le 27 novembre 1951 à Mostar et mort le 25 janvier 2025, est un joueur et entraîneur serbe de basket-ball. Durant sa carrière sportive, il fut international et joua pour la Yougoslavie. Dalipagić évoluait au poste d'arrière."
+                },
+                {
+                    "text": "Fathi Derder, journaliste suisse (° 4 décembre 1970).",
+                    "title": "Fathi_Derder",
+                    "description": "personnalité politique suisse",
+                    "content_url": "https://fr.wikipedia.org/wiki/Fathi_Derder",
+                    "language": "fr",
+                    "extract": "Fathi Derder, né le 4 décembre 1970 à Lausanne et mort le 25 janvier 2025, est un journaliste, rédacteur en chef du quotidien économique l'Agefi de mai 2017 à juillet 2018, et une personnalité politique suisse, membre du Parti libéral-radical et député du canton de Vaud au Conseil national de 2011 à 2019 et directeur de la Swiss Digital Initiative."
                 }
             ]
         }
     },
     {
         "date": "1/26/2025",
+        "data": {
+            "deaths": []
+        }
+    },
+    {
+        "date": "1/27/2025",
         "data": {
             "deaths": []
         }

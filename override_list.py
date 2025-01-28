@@ -84,6 +84,12 @@ override_list = [
     "Keiichi_Suzuki_(patinage_de_vitesse)",
     "Madior_Diouf",
     "Esther_Jansma",
-
+    "Marlène_Canguio",
+    "Ikujiro_Nonaka",
+    "Anastase_de_Tirana",
+    "Greg_Bell",
+    "Dražen_Dalipagić",
+    "Fathi_Derder",
+    
     # Add more titles as needed
 ]
